@@ -2,5 +2,5 @@
 echo 'this is test';
 echo 'mailgmail@test.com';
 echo '127.0.0.1';
-echo 'newmail@me.co';
+echo 'newmail@me.csdo';
 ?>
