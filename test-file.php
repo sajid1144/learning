@@ -1,4 +1,4 @@
 <?php
 echo 'this is test';
-echo 'mailgmail@test.com';
+echo 'mailgmail@test.comm';
 ?>
